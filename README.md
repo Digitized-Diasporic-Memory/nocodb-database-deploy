@@ -12,3 +12,4 @@ This example deploys self-hosted version of [NocoDB](https://www.nocodb.com/). I
 ## 💁‍♀️ How to use
 
 - Click the Railway button 👆
+- 
