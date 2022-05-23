@@ -19,6 +19,6 @@ This repository was created from [Railways's](https://railway.app/) [NocoDB](htt
 3. Connect your GitHub account
 4. Hit "Deploy"
 5. In your [dashboard](https://railway.app/dashboard), click on your new NocoDB deployment
-6. To access your application's site, click on the "nocodb", and click on the first URL under the "Deployments" tab.
-7. Create your NocoDB account.
+6. To access your application's site, click on the "nocodb", and click on the first URL under the "Deployments" tab
+7. Create your NocoDB account
 8. You're all set! Check out [NocoDB's documentation](https://docs.nocodb.com/)
