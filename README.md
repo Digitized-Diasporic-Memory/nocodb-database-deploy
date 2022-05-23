@@ -1,6 +1,6 @@
 # Self-hosted NocoDB
 
-This repository was created from [Railways's](https://railway.app/) [NocoDB](https://www.nocodb.com/) [deploy starter](https://github.com/railwayapp-starters/nocodb). I update this repo to update the NocoDB software used for Digitized Diasporic Memory's [public-facing database](diasporamemory.com/database/).
+This repository was created from [Railways's](https://railway.app/) [NocoDB](https://www.nocodb.com/) [deploy starter](https://github.com/railwayapp-starters/nocodb). I update this repo to update the NocoDB software used for Digitized Diasporic Memory's [public-facing database](https://diasporamemory.com/database/).
 
 ![Database](https://user-images.githubusercontent.com/55474996/167480805-7fdb28c9-b387-4cec-8837-f18e6d1732a9.png)
 
