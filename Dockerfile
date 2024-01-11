@@ -1,3 +1,5 @@
-FROM nocodb/nocodb:latest
+FROM nocodb/nocodb
 
-ENTRYPOINT ["sh", "/usr/src/appEntry/start.sh"]
+ARG PGPASSWORD PGHOST PGPORT PGDATABASE PGUSER NC_AUTH_JWT_SECRET
+
+ENV NC_DB="pg://$PGHOST:$PGPORT?u=$PGUSER&p=$PGPASSWORD&d=$PGDATABASE"
